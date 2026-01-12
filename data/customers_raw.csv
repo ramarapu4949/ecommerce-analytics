@@ -1,0 +1,8 @@
+customer_id,signup_date,segment
+101,2021-01-10,regular
+102,2020/03/15,Premium
+103,,REG
+104,2019-07-01,
+101,2021-01-10,regular
+105,2022-11-20,premium
+106,invalid_date,Regular

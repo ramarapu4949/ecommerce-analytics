@@ -1,1 +1,8 @@
-
+order_id,customer_id,order_date,region,order_value
+1001,101,2023-01-05,blr,2500
+1002,102,2023/01/10,Bangalore,3000
+1003,103,2023-01-15,DELHI,-1500
+1004,104,2023-02-01,Delhi NCR,4000
+1005,105,invalid_date,blr,0
+1006,,2023-02-10,Mumbai,3500
+1001,101,2023-01-05,blr,2500
